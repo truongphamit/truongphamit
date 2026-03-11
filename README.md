@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truong</h1>
-<h3 align="center">A Mobile Developer from Vietnam</h3>
+<h3 align="center">A Indie App Developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truongphamit&label=Profile%20views&color=0e75b6&style=flat" alt="truongphamit" /> </p>
 
