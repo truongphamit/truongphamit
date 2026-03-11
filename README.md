@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Swift, Go**
 
-- 👨‍💻 All of my projects are available at [https://growly.life](https://growly.life)
+- 👨‍💻 All of my projects are available at [https://zenolab.app](https://zenolab.app)
 
-- 📝 I regularly write articles on [https://growly.life](https://growly.life)
+- 📝 I regularly write articles on [https://zenolab.app](https://zenolab.app)
 
 - 💬 Ask me about **Android, IOS, Flutter**
 
